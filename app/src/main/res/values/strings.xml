@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TK Aisyiyah</string>
+    <string name="eWelcome">Log In!</string>
+    <string name="eNama">masukkan nama</string>
+    <string name="ePassword">masukkan password</string>
+    <string name="bSignIn">Sign In</string>
+    <string name="lNama">Nama</string>
+    <string name="lPass">Password</string>
+    <string name="eCreate">Create Account</string>
+    <string name="lDaftar">Registration</string>
+    <string name="enama">Masukkan Nama</string>
+    <string name="eemail">Masukkan Email</string>
+    <string name="lEmail">Email</string>
+    <string name="epass">Masukkan Password</string>
+    <string name="lrepass">Re-Password</string>
+    <string name="bSignUp">Register</string>
+</resources>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "690643260423",
+    "project_id": "projectakhir-ece1d",
+    "storage_bucket": "projectakhir-ece1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690643260423:android:0ee974ef5393adb0b746a2",
+        "android_client_info": {
+          "package_name": "com.example.firebaseactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690643260423-lr7cpp53n7sdtqhooj05m7dd7qplu9lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3E_tntmnOsRu2XpVMBdOhT-DmVsYEeis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690643260423-lr7cpp53n7sdtqhooj05m7dd7qplu9lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690643260423:android:8e8e670a9cf8afb3b746a2",
+        "android_client_info": {
+          "package_name": "com.example.pam_projectakhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690643260423-lr7cpp53n7sdtqhooj05m7dd7qplu9lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3E_tntmnOsRu2XpVMBdOhT-DmVsYEeis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690643260423-lr7cpp53n7sdtqhooj05m7dd7qplu9lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
