@@ -53,7 +53,7 @@ public class MainMenuActivity extends AppCompatActivity {
                     public void onClick(DialogInterface dialogInterface, int i) {
                         switch (i) {
                             case 0:
-                                Intent intent = new Intent(getApplicationContext(), InputDataActivity.class);
+                                Intent intent = new Intent(getApplicationContext(), EditDataActivity.class);
                                 intent.putExtra("id", list.get(pos).getKey());
                                 intent.putExtra("nama", list.get(pos).getNama());
                                 intent.putExtra("jeniskelamin", list.get(pos).getJk());
@@ -98,7 +98,14 @@ public class MainMenuActivity extends AppCompatActivity {
                         list.clear();
                         if (task.isSuccessful()) {
                             for (QueryDocumentSnapshot document : task.getResult()) {
-                                User user = new User(document.getString("nama"), document.getString("ttl"));
+                                User user = new User(document.getString("nama"),
+                                        document.getString("jeniskelamin"),
+                                        document.getString("ttl"),
+                                        document.getString("umur"),
+                                        document.getString("agama"),
+                                        document.getString("bb"),
+                                        document.getString("tb"),
+                                        document.getString("alamat"));
                                 user.setKey(document.getId());
                                 list.add(user);
                             }

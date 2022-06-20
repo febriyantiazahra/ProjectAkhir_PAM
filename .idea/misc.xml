@@ -8,6 +8,7 @@
         <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/PAM_ProjectAkhir/app/src/main/res/drawable/person.xml" value="0.1" />
         <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/PAM_ProjectAkhir/app/src/main/res/drawable/shape.xml" value="0.1" />
         <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/PAM_ProjectAkhir/app/src/main/res/layout/activity_about.xml" value="0.264" />
+        <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/PAM_ProjectAkhir/app/src/main/res/layout/activity_edit_data.xml" value="0.1" />
         <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/PAM_ProjectAkhir/app/src/main/res/layout/activity_home.xml" value="0.264" />
         <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/PAM_ProjectAkhir/app/src/main/res/layout/activity_input_data.xml" value="0.2" />
         <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/PAM_ProjectAkhir/app/src/main/res/layout/activity_lihat_data.xml" value="0.264" />
@@ -15,7 +16,7 @@
         <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/PAM_ProjectAkhir/app/src/main/res/layout/activity_main_menu.xml" value="0.1" />
         <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/PAM_ProjectAkhir/app/src/main/res/layout/activity_register.xml" value="0.24010416666666667" />
         <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/PAM_ProjectAkhir/app/src/main/res/layout/activity_syarat.xml" value="0.264" />
-        <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/PAM_ProjectAkhir/app/src/main/res/layout/item_peserta.xml" value="0.1" />
+        <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/PAM_ProjectAkhir/app/src/main/res/layout/item_peserta.xml" value="0.152" />
       </map>
     </option>
   </component>

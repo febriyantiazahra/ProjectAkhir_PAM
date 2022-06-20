@@ -1,18 +1,9 @@
 package com.example.pam_projectakhir.model;
 
 public class User {
-    private String key;
-    private String nama;
-    private String jk;
-    private String ttl;
-    private String umur;
-    private String agama;
-    private String bb;
-    private String tb;
-    private String alamat;
+    private String key, nama, jk, ttl, umur, agama, bb, tb, alamat;
 
-    public User(String nama, String ttl) {
-
+    public User(){
     }
 
     public User(String nama, String jk, String ttl, String umur, String agama, String bb, String tb, String alamat) {

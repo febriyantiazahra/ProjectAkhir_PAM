@@ -19,6 +19,9 @@
             android:name=".InputDataActivity"
             android:exported="false" />
         <activity
+            android:name=".EditDataActivity"
+            android:exported="false" />
+        <activity
             android:name=".AboutActivity"
             android:exported="false" />
         <activity

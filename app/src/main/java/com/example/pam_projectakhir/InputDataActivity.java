@@ -85,9 +85,9 @@ public class InputDataActivity extends AppCompatActivity {
         }
     }
 
-    private void saveData(String alamat, String nama, String ttl, String umur, String agama, String bb, String tb, String jeniskelamin) {
+    private void saveData(String nama, String ttl, String umur, String agama, String bb, String tb, String jeniskelamin, String alamat) {
         Map<String, Object> user = new HashMap<>();
-        user.put("name", nama);
+        user.put("nama", nama);
         user.put("ttl", ttl);
         user.put("umur", umur);
         user.put("agama", agama);
